@@ -12,7 +12,6 @@ party: greensdparty
 tags: 不分區
 ogimg: 0
 wait: false
-layout: post
 previous:
   title: 謝英俊：方法自如
   url: /view/hsiehyingchun
