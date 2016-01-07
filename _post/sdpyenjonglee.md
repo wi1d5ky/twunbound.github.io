@@ -8,8 +8,8 @@ donate_link: https://sdparty.tw/candidates/4/donate
 id: sdpyenjonglee
 date: 2015/12/30 08:14
 party: greensdparty
-tags: 台北市, 中山區, 北松山區
-ogimg: http://twunbound.github.io/images/014-01.jpg
+tags: 台北市 中山區 北松山區
+ogimg: images/014-01.jpg
 wait: false
 layout: post
 ---

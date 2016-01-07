@@ -10,7 +10,7 @@ id: imagelephant
 date: 2015/12/24 13:00
 party: newpowerparty
 tags: 不分區
-ogimg: http://twunbound.github.io/images/006-01.jpg
+ogimg: images/006-01.jpg
 wait: false
 layout: post
 ---

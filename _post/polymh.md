@@ -10,7 +10,7 @@ id: polymh
 date: 2016/1/6 00:24
 party: newpowerparty
 tags: 不分區
-ogimg: http://twunbound.github.io/images/025-01.jpg
+ogimg: images/025-01.jpg
 wait: false
 layout: post
 ---

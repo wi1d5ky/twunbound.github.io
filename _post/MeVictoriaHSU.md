@@ -10,7 +10,7 @@ id: MeVictoriaHSU
 date: 2016/1/4 15:21
 party: greensdparty
 tags: 不分區
-ogimg: http://twunbound.github.io/images/021-01.jpg
+ogimg: images/021-01.jpg
 wait: false
 layout: post
 ---

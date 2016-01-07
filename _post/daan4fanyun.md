@@ -8,8 +8,8 @@ donate_link: https://sdparty.tw/candidates/1/donate
 id: daan4fanyun
 date: 2015/12/31 00:43
 party: greensdparty
-tags: 台北市, 大安區
-ogimg: http://twunbound.github.io/images/018-01.jpg
+tags: 台北市 大安區
+ogimg: images/018-01.jpg
 wait: false
 layout: post
 ---

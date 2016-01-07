@@ -10,7 +10,7 @@ id: LawyerCo
 date: 2015/12/24 20:00
 party: newpowerparty
 tags: 不分區
-ogimg: http://twunbound.github.io/images/007-01.jpg
+ogimg: images/007-01.jpg
 wait: false
 layout: post
 ---

@@ -9,7 +9,7 @@ id: ivotefreddy
 date: 2015/12/23 16:00
 party: greensdparty
 tags: 台北市中正、萬華區
-ogimg: http://twunbound.github.io/images/005-04.jpg
+ogimg: images/005-04.jpg
 wait: false
 layout: post
 ---

@@ -10,7 +10,7 @@ id: LawyerHandyChiu
 date: 2016/1/4 11:11
 party: greensdparty
 tags: 不分區
-ogimg: http://twunbound.github.io/images/020-01.jpg
+ogimg: images/020-01.jpg
 wait: false
 layout: post
 ---

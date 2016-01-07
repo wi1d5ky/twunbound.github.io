@@ -9,7 +9,7 @@ id: shaowen333
 date: 2015/12/29 8:14
 party: greensdparty
 tags: 宜蘭縣
-ogimg: 2
+ogimg: images/011-02.jpg
 wait: false
 layout: post
 ---

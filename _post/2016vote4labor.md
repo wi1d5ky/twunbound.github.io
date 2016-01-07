@@ -10,7 +10,7 @@ id: 2016vote4labor
 date: 2016/1/5 09:40
 party: greensdparty
 tags: 不分區
-ogimg: http://twunbound.github.io/images/024-01.jpg
+ogimg: images/024-01.jpg
 wait: false
 layout: post
 ---

@@ -8,8 +8,8 @@ donate_link: http://www.greenparty.org.tw/civicrm/contribute/transact?reset=1&id
 id: zdayoung
 date: 2015/12/30 19:24
 party: greensdparty
-tags: 台南市, 第四選區, 安平區, 南區, 東區
-ogimg: http://twunbound.github.io/images/017-01.jpg
+tags: 台南市 第四選區 安平區 南區 東區
+ogimg: images/017-01.jpg
 wait: false
 layout: post
 ---

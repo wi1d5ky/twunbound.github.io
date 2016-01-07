@@ -8,8 +8,8 @@ donate_link: https://docs.google.com/forms/d/1WCmyebM5j0qd0HL6ArjNl5bLoM2rRTZC3C
 id: lu-d-jie
 date: 2015/12/23 10:00
 party: greensdparty
-tags: 桃園市第六選區, 八德區, 大溪區, 復興區, 中壢區
-ogimg: http://twunbound.github.io/images/002-02.jpg
+tags: 桃園市第六選區 八德區 大溪區 復興區 中壢區
+ogimg: images/002-02.jpg
 wait: false
 layout: post
 ---

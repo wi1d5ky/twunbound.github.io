@@ -9,7 +9,7 @@ id: JenniferLuTw
 date: 2015/12/25 10:00
 party: greensdparty
 tags: 信義松山區
-ogimg: http://twunbound.github.io/images/008-01.jpg
+ogimg: images/008-01.jpg
 wait: false
 layout: post
 ---

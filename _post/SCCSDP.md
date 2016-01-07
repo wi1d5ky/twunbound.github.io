@@ -8,8 +8,8 @@ donate_link: https://donate.pay2go.com/SCC/donate
 id: SCCSDP
 date: 2015/12/28 14:14
 party: greensdparty
-tags: 南港區, 內湖區
-ogimg: http://twunbound.github.io/images/010-03.jpg
+tags: 南港區 內湖區
+ogimg: images/010-03.jpg
 wait: false
 layout: post
 ---

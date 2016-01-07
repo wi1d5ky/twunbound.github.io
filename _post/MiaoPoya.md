@@ -9,7 +9,7 @@ id: MiaoPoya
 date: 2015/12/23 15:00
 party: greensdparty
 tags: 台北市文山區
-ogimg: http://twunbound.github.io/images/001-03.jpg
+ogimg: images/001-03.jpg
 wait: false
 layout: post
 ---

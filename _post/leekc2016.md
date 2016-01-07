@@ -10,7 +10,7 @@ id: leekc2016
 date: 2015/12/30 10:14
 party: greensdparty
 tags: 不分區
-ogimg: http://twunbound.github.io/images/015-01.jpg
+ogimg: images/015-01.jpg
 wait: false
 layout: post
 ---

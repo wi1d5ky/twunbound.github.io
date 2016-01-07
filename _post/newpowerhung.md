@@ -8,8 +8,8 @@ donate_link: https://donate.pay2go.com/newpowerhung/donate
 id: newpowerhung
 date: 2015/12/29 13:14
 party: newpowerparty
-tags: 臺中市第三選舉區, 后里區, 神岡區, 大雅區, 潭子區
-ogimg: 2
+tags: 臺中市第三選舉區 后里區 神岡區 大雅區 潭子區
+ogimg: images/012-02.jpg
 wait: false
 layout: post
 ---

@@ -9,7 +9,7 @@ id: LawyerHandyChiu
 date: 2015/12/31 09:24
 party: newpowerparty
 tags: 新竹市
-ogimg: http://twunbound.github.io/images/019-01.jpg
+ogimg: images/019-01.jpg
 wait: false
 layout: post
 ---

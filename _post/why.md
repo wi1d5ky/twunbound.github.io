@@ -4,7 +4,7 @@ title: 讓期待改革的人和進行改革的人相會
 id: why
 date: 2015/12/21 00:00
 tags: 採訪筆記
-ogimg: http://twunbound.github.io/images/000-00.jpg
+ogimg: images/000-00.jpg
 wait: false
 layout: post
 ---

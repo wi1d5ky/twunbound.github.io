@@ -9,8 +9,8 @@ donate_name: 社民黨
 id: hsiehyingchun
 date: 2016/1/4 23:40
 party: greensdparty
-tags: 台北市,不分區
-ogimg: http://twunbound.github.io/images/023-01.jpg
+tags: 台北市 不分區
+ogimg: images/023-01.jpg
 wait: false
 layout: post
 ---
