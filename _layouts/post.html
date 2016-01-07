@@ -92,6 +92,13 @@
 				{{ content }}
       </div>
 
+			{% if page.fbprofile %}
+				<div style="padding:24px;">
+					<a target="_blank" href="{{ page.fbprofile }}" style="font-size:26px;">{{ page.person }}</a>
+				</div>
+			{% endif %}
+
+			{% if page.fbprofile %}
 			<div style="padding:24px;">
 				<div data-href="{{ page.fanspage }}" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false"
 							data-show-facepile="true" class="fb-page">
@@ -102,6 +109,7 @@
 							</div>
 				</div>
 			</div>
+			{% endif %}
 
       <div class="article-footer" style="padding:24px;">
 
@@ -119,6 +127,9 @@
 				<br/><br/>
 			{% endif %}
       <a href="/" >看所有採訪文章列表</a>
+			<br/><br/>
+			<script src="https://gumroad.com/js/gumroad.js"></script>
+			<a href="https://gum.co/youngp/free" target="_blank" class="gumroad-button">下載電子書</a>
     </div>
 
     <div style='padding:24px'>
