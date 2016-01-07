@@ -2,7 +2,7 @@
 <html lang="zh_TW">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>{{ page.title }}</title>
+	<title>{{ page.title }}  (郝明義、 陳季芳) | 年輕的力量進國會</title>
 	<meta charset="utf-8">
 	<!--[if lt IE 9]><script src="js/html5.js"></script><![endif]-->
 
@@ -10,7 +10,7 @@
 
 	<!-- JS -->
 	<meta name="description" content="2016大選的意義，不僅在於執政的政黨可能輪替，而更在於立法院所代表的國會可能如何改革。對於國會改革，許多人都相信：國民黨需要教訓、民進黨需要制衡、代表年輕世代的第三力量要展現。這個計劃，就是希望能提供目前沒有資源、沒有人力的年輕改革力量一些支援，讓他們在做的事情得到多一些曝光的機會，使得期待改革的人能看到年輕人正在做些什麼，也使得進行改革的年輕人能得到期待改革的人的支持。" />
-	<meta property="og:image" content="{{page.image}}" />
+	<meta property="og:image" content="{{page.ogimg}}" />
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
 	<!-- Optional theme -->
@@ -54,7 +54,7 @@
 
           <a name="users" id="#candidate"></a>
           <div class="pull-right">
-            <div class="fb-like" data-href="http://twunbound.github.io/view/why" data-layout="button_count" data-action="like"
+            <div class="fb-like" data-href="http://twunbound.github.io/view/{{ page.id }}" data-layout="button_count" data-action="like"
             data-show-faces="true" data-share="true"></div>
           </div>
 
@@ -96,8 +96,8 @@
 				<div data-href="{{ page.fanspage }}" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false"
 							data-show-facepile="true" class="fb-page">
 							<div class="fb-xfbml-parse-ignore">
-								<blockquote cite="https://www.facebook.com/2016vote4labor/">
-									<a href="https://www.facebook.com/2016vote4labor/">{{ page.person }}</a>
+                <blockquote cite="{{ page.fanspage }}">
+									<a href="{{ page.fanspage }}">{{ page.person }}</a>
 								</blockquote>
 							</div>
 				</div>
@@ -123,7 +123,7 @@
 
     <div style='padding:24px'>
     <h4>網友迴響</h4>
-    <div class="fb-comments"  data-width="100%" data-href="http://twunbound.github.io/view/why" data-numposts="6"></div>
+    <div class="fb-comments"  data-width="100%" data-href="http://twunbound.github.io/view/{{ page.id }}" data-numposts="6"></div>
     </div>
 
     </div>

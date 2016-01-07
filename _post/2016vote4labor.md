@@ -18,6 +18,7 @@ previous:
 next:
   title: 徐永明：運動中的觀察者
   url: /view/polymh
+layout: post
 ---
 <img style="margin-top:20px;" src="/images/024-01.jpg" alt="張麗芬" class="news-photo-1">
 

@@ -11,10 +11,10 @@ party: greensdparty
 tags: 新北市,第四選區,新莊區
 ogimg: 0
 wait: false
-layout: post
 previous:
   title: 高潞・以用：進擊的衝組
   url: /view/kawloiyun
+layout: post
 ---
 
 <img style="margin-top:20px;" src="/images/027-01.jpg" alt="賈伯楷" class="news-photo-1">
