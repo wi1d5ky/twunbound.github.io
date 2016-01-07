@@ -1,14 +1,9 @@
 ---
 index: 0
-person: 張麗芬
 title: 讓期待改革的人和進行改革的人相會
-fanspage: https://www.facebook.com/2016vote4labor/
-fanstitle: 張麗芬
-donate_link: http://www.greenparty.org.tw/civicrm/contribute/transact?reset=1&id=4
-donate_name: 綠黨
 id: why
 time: 2015/12/22 04:40
-tags: 不分區
+tags: 採訪筆記
 ogimg: http://twunbound.github.io/images/000-00.jpg
 wait: false
 next:
@@ -16,6 +11,8 @@ next:
   url: /view/poyu-tseng2016
 layout: post
 ---
+
+<img class="news-photo-1" src="/images/000-00.jpg" alt="郝明義">
 
 #### 從10月3日到明年1月7日
 
