@@ -9,7 +9,7 @@ id: SCCSDP
 time: 2015/12/28 14:14
 party: greensdparty
 tags: 南港區, 內湖區
-ogimg: 0
+ogimg: http://twunbound.github.io/images/010-03.jpg
 wait: false
 layout: post
 previous:

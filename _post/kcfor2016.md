@@ -9,7 +9,7 @@ id: kcfor2016
 time: 2015/12/30 12:49
 party: newpowerparty
 tags: 新北市第12選區, 金山區, 萬里區, 汐止區, 平溪區, 瑞芳區, 雙溪區, 貢寮區
-ogimg: 0
+ogimg: http://twunbound.github.io/images/016-01.jpg
 wait: false
 layout: post
 previous:

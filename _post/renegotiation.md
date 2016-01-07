@@ -10,7 +10,7 @@ id: renegotiation
 time: 2015/12/29 15:14
 party: newpowerparty
 tags: 不分區
-ogimg: 0
+ogimg: http://twunbound.github.io/images/013-01.jpg
 wait: false
 layout: post
 previous:

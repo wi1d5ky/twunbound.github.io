@@ -9,7 +9,7 @@ id: standforpeople
 time: 2015/12/28 10:14
 party: greensdparty
 tags: 桃園市第1選區
-ogimg: 0
+ogimg: http://twunbound.github.io/images/009-03.jpg
 wait: false
 layout: post
 previous:

@@ -9,7 +9,7 @@ id: zdayoung
 time: 2015/12/30 19:24
 party: greensdparty
 tags: 台南市, 第四選區, 安平區, 南區, 東區
-ogimg: 0
+ogimg: http://twunbound.github.io/images/017-01.jpg
 wait: false
 layout: post
 previous:

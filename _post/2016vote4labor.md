@@ -10,7 +10,7 @@ id: 2016vote4labor
 time: 2015/1/5 09:40
 party: greensdparty
 tags: 不分區
-ogimg: 0
+ogimg: http://twunbound.github.io/images/024-01.jpg
 wait: false
 previous:
   title: 謝英俊：方法自如

@@ -9,7 +9,7 @@ id: sdpyenjonglee
 time: 2015/12/30 08:14
 party: greensdparty
 tags: 台北市, 中山區, 北松山區
-ogimg: 0
+ogimg: http://twunbound.github.io/images/014-01.jpg
 wait: false
 layout: post
 previous:

@@ -9,7 +9,7 @@ id: bokaijia
 time: 2015/1/6 10:24
 party: greensdparty
 tags: 新北市,第四選區,新莊區
-ogimg: 0
+ogimg: http://twunbound.github.io/images/027-01.jpg
 wait: false
 previous:
   title: 高潞・以用：進擊的衝組

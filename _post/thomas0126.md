@@ -10,7 +10,7 @@ id: thomas0126
 time: 2015/1/4 22:35
 party: greensdparty
 tags: 不分區
-ogimg: 0
+ogimg: http://twunbound.github.io/images/022-01.jpg
 wait: false
 layout: post
 previous:
