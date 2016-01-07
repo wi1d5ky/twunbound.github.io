@@ -6,17 +6,11 @@ fanspage: https://www.facebook.com/ivotefreddy/
 fanstitle: 林昶佐 中正萬華關鍵戰將
 donate_link: https://donate.pay2go.com/freddy/donate
 id: ivotefreddy
-time: 2015/12/23 16:00
+date: 2015/12/23 16:00
 party: greensdparty
 tags: 台北市中正、萬華區
 ogimg: http://twunbound.github.io/images/005-04.jpg
 wait: false
-previous:
-  title: 苗博雅：冰下有火
-  url: /view/MiaoPoya
-next:
-  title: 柯一正：認真的遊戲者
-  url: /view/imagelephant
 layout: post
 ---
 

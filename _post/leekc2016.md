@@ -7,18 +7,12 @@ fanstitle: 李根政
 donate_link: http://www.greenparty.org.tw/civicrm/contribute/transact?reset=1&id=4
 donate_name: 綠黨
 id: leekc2016
-time: 2015/12/30 10:14
+date: 2015/12/30 10:14
 party: greensdparty
 tags: 不分區
 ogimg: http://twunbound.github.io/images/015-01.jpg
 wait: false
 layout: post
-previous:
-  title: 李晏榕：總結者
-  url: /view/sdpyenjonglee
-next:
-  title: 黃國昌：策略與衝鋒
-  url: /view/kcfor2016
 ---
 <img style="margin-top:20px;" src="/images/015-01.jpg" alt="李根政" class="news-photo-1">
 

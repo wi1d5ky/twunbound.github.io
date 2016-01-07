@@ -2,13 +2,10 @@
 index: 0
 title: 讓期待改革的人和進行改革的人相會
 id: why
-time: 2015/12/22 04:40
+date: 2015/12/21 00:00
 tags: 採訪筆記
 ogimg: http://twunbound.github.io/images/000-00.jpg
 wait: false
-next:
-  title: 曾柏瑜：衝出巷口的決心
-  url: /view/poyu-tseng2016
 layout: post
 ---
 

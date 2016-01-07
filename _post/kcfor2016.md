@@ -6,18 +6,12 @@ fanspage: https://www.facebook.com/kcfor2016/
 fanstitle: 黃國昌
 donate_link: https://donate.pay2go.com/KC2016/facebook
 id: kcfor2016
-time: 2015/12/30 12:49
+date: 2015/12/30 12:49
 party: newpowerparty
 tags: 新北市第12選區, 金山區, 萬里區, 汐止區, 平溪區, 瑞芳區, 雙溪區, 貢寮區
 ogimg: http://twunbound.github.io/images/016-01.jpg
 wait: false
 layout: post
-previous:
-  title: 李根政：原則與溫暖
-  url: /view/leekc2016
-next:
-  title: 楊智達：相信時間的人
-  url: /view/zdayoung
 ---
 <img style="margin-top:20px;" src="/images/016-01.jpg" alt="黃國昌" class="news-photo-1">
 

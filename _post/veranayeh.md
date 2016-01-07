@@ -7,18 +7,12 @@ fanstitle: 葉大華
 donate_link: https://sdparty.tw/donate
 donate_name: 社民黨
 id: LawyerHandyChiu
-time: 2015/1/4 11:11
+date: 2016/1/4 11:11
 party: greensdparty
 tags: 不分區
 ogimg: http://twunbound.github.io/images/020-01.jpg
 wait: false
 layout: post
-previous:
-  title: 邱顯智：為弱勢者燃燒
-  url: /view/LawyerHandyChiu
-next:
-  title: 許秀雯：女同志寫給台灣的情書
-  url: /view/MeVictoriaHSU
 ---
 <img style="margin-top:20px;" src="/images/020-01.jpg" alt="葉大華" class="news-photo-1">
 

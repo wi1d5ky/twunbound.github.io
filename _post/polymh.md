@@ -7,18 +7,12 @@ fanstitle: 徐永明
 donate_link: https://donate.pay2go.com/npp/donate_fb
 donate_name: 時代力量
 id: polymh
-time: 2015/1/6 00:24
+date: 2016/1/6 00:24
 party: newpowerparty
 tags: 不分區
 ogimg: http://twunbound.github.io/images/025-01.jpg
 wait: false
 layout: post
-previous:
-  title: 張麗芬：工會動員
-  url: http://twunbound.github.io/view/2016vote4labor
-next:
-  title: 高潞・以用：進擊的衝組
-  url: http://twunbound.github.io/view/kawloiyun
 ---
 <img style="margin-top:20px;" src="/images/025-01.jpg" alt="徐永明" class="news-photo-1">
 

@@ -6,18 +6,12 @@ fanspage: https://www.facebook.com/newpowerhung/
 fanstitle: 洪慈庸
 donate_link: https://donate.pay2go.com/newpowerhung/donate
 id: newpowerhung
-time: 2015/12/29 13:14
+date: 2015/12/29 13:14
 party: newpowerparty
 tags: 臺中市第三選舉區, 后里區, 神岡區, 大雅區, 潭子區
 ogimg: 2
 wait: false
 layout: post
-previous:
-  title: 吳紹文：不要等死的農夫
-  url: /view/shaowen333
-next:
-  title: 鄭秀玲 ：俠女
-  url: /view/renegotiation
 ---
 <img style="margin-top:20px;" src="/images/012-01.jpg" alt="洪慈庸" class="news-photo-1">
 

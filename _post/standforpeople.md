@@ -6,18 +6,12 @@ fanspage: https://www.facebook.com/standforpeople/
 fanstitle: 王寶萱
 donate_link: https://payment.allpay.com.tw/Donate/CreateDonateOrder?id=1117209
 id: standforpeople
-time: 2015/12/28 10:14
+date: 2015/12/28 10:14
 party: greensdparty
 tags: 桃園市第1選區
 ogimg: http://twunbound.github.io/images/009-03.jpg
 wait: false
 layout: post
-previous:
-  title: 呂欣潔：柔和的勇猛
-  url: /view/JenniferLuTw
-next:
-  title: 陳尚志：學者之怒
-  url: /view/SCCSDP
 ---
 <img style="margin-top:20px;" src="/images/009-03.jpg" alt="王寶萱" class="news-photo-1">
 

@@ -6,17 +6,11 @@ fanspage: https://www.facebook.com/miaopoya.sdp/
 fanstitle: 苗博雅
 donate_link: https://sdparty.tw/candidates/3/donate
 id: MiaoPoya
-time: 2015/12/22 10:00
+date: 2015/12/23 15:00
 party: greensdparty
 tags: 台北市文山區
 ogimg: http://twunbound.github.io/images/001-03.jpg
 wait: false
-previous:
-  title: 呂東杰：隱俠出江湖
-  url: /view/lu-d-jie
-next:
-  title: 林昶佐：奔放中的冷靜
-  url: /view/ivotefreddy
 layout: post
 ---
 

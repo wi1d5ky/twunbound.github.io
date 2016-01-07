@@ -7,18 +7,12 @@ fanstitle: 詹順貴
 donate_link: http://www.greenparty.org.tw/civicrm/contribute/transact?reset=1&id=4
 donate_name: 綠黨
 id: thomas0126
-time: 2015/1/4 22:35
+date: 2016/1/4 22:35
 party: greensdparty
 tags: 不分區
 ogimg: http://twunbound.github.io/images/022-01.jpg
 wait: false
 layout: post
-previous:
-  title: 許秀雯：女同志寫給台灣的情書
-  url: /view/MeVictoriaHSU
-next:
-  title: 謝英俊：方法自如
-  url: /view/hsiehyingchun
 ---
 <img style="margin-top:20px;" src="/images/022-01.jpg" alt="詹順貴" class="news-photo-1">
 

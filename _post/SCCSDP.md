@@ -6,18 +6,12 @@ fanspage: https://www.facebook.com/SCCSDP/
 fanstitle: 陳尚志
 donate_link: https://donate.pay2go.com/SCC/donate
 id: SCCSDP
-time: 2015/12/28 14:14
+date: 2015/12/28 14:14
 party: greensdparty
 tags: 南港區, 內湖區
 ogimg: http://twunbound.github.io/images/010-03.jpg
 wait: false
 layout: post
-previous:
-  title: 王寶萱：聽我五分鐘
-  url: /view/standforpeople
-next:
-  title: 吳紹文：不要等死的農夫
-  url: /view/shaowen333
 ---
 <img style="margin-top:20px;" src="/images/010-03.jpg" alt="陳尚志" class="news-photo-1">
 

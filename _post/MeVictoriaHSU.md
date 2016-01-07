@@ -7,18 +7,12 @@ fanstitle: 許秀雯
 donate_link: http://www.greenparty.org.tw/civicrm/contribute/transact?reset=1&id=4
 donate_name: 綠黨
 id: MeVictoriaHSU
-time: 2015/1/4 15:21
+date: 2016/1/4 15:21
 party: greensdparty
 tags: 不分區
 ogimg: http://twunbound.github.io/images/021-01.jpg
 wait: false
 layout: post
-previous:
-  title: 葉大華：為青少年而起
-  url: /view/veranayeh
-next:
-  title: 詹順貴：串聯異議者的人
-  url: /view/thomas0126
 ---
 <img style="margin-top:20px;" src="/images/021-01.jpg" alt="許秀雯" class="news-photo-1">
 

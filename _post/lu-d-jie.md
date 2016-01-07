@@ -6,17 +6,11 @@ fanspage: https://www.facebook.com/lu.d.jie.10
 fanstitle: 呂東杰
 donate_link: https://docs.google.com/forms/d/1WCmyebM5j0qd0HL6ArjNl5bLoM2rRTZC3CVrKvHgwDg/viewform?c=0&w=1
 id: lu-d-jie
-time: 2015/12/23 10:00
+date: 2015/12/23 10:00
 party: greensdparty
 tags: 桃園市第六選區, 八德區, 大溪區, 復興區, 中壢區
 ogimg: http://twunbound.github.io/images/002-02.jpg
 wait: false
-previous:
-  title: 曾柏瑜：衝出巷口的決心
-  url: /view/poyu-tseng2016
-next:
-  title: 苗博雅：冰下有火
-  url: /view/MiaoPoya
 layout: post
 ---
 

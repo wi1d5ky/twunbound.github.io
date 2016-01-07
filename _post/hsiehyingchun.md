@@ -7,18 +7,12 @@ fanstitle: 謝英俊
 donate_link: https://sdparty.tw/donate
 donate_name: 社民黨
 id: hsiehyingchun
-time: 2015/1/4 23:40
+date: 2016/1/4 23:40
 party: greensdparty
 tags: 台北市,不分區
 ogimg: http://twunbound.github.io/images/023-01.jpg
 wait: false
 layout: post
-previous:
-  title: 詹順貴：串聯異議者的人
-  url: /view/thomas0126
-next:
-  title: 張麗芬：工會動員
-  url: /view/2016vote4labor
 ---
 
 <img style="margin-top:20px;" src="/images/023-01.jpg" alt="謝英俊" class="news-photo-1">

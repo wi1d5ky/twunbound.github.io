@@ -6,14 +6,11 @@ fanspage: https://www.facebook.com/bokaijia/
 fanstitle: 賈伯楷
 donate_link: http://www.greenparty.org.tw/civicrm/contribute/transact?reset=1&id=29
 id: bokaijia
-time: 2015/1/6 10:24
+date: 2016/1/6 10:24
 party: greensdparty
 tags: 新北市,第四選區,新莊區
 ogimg: http://twunbound.github.io/images/027-01.jpg
 wait: false
-previous:
-  title: 高潞・以用：進擊的衝組
-  url: /view/kawloiyun
 layout: post
 ---
 

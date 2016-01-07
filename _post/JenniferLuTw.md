@@ -6,17 +6,11 @@ fanspage: https://www.facebook.com/JenniferLuTw/
 fanstitle: 呂欣潔 Jennifer Lu
 donate_link: https://sdparty.tw/candidates/2/donate
 id: JenniferLuTw
-time: 2015/12/25 10:00
+date: 2015/12/25 10:00
 party: greensdparty
 tags: 信義松山區
 ogimg: http://twunbound.github.io/images/008-01.jpg
 wait: false
-previous:
-  title: 柯劭臻：風暴中挪動一吋吋腳步
-  url: /view/LawyerCo
-next:
-  title: 王寶萱：聽我五分鐘
-  url: /view/standforpeople
 layout: post
 ---
 

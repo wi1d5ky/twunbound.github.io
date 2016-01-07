@@ -6,18 +6,12 @@ fanspage: http://www.facebook.com/sdpyenjonglee
 fanstitle: 李晏榕
 donate_link: https://sdparty.tw/candidates/4/donate
 id: sdpyenjonglee
-time: 2015/12/30 08:14
+date: 2015/12/30 08:14
 party: greensdparty
 tags: 台北市, 中山區, 北松山區
 ogimg: http://twunbound.github.io/images/014-01.jpg
 wait: false
 layout: post
-previous:
-  title: 鄭秀玲 ：俠女
-  url: /view/renegotiation
-next:
-  title: 李根政：原則與溫暖
-  url: /view/leekc2016
 ---
 <img style="margin-top:20px;" src="/images/014-01.jpg" alt="李晏榕" class="news-photo-1">
 

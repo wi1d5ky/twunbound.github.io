@@ -7,18 +7,12 @@ fanstitle: 高潞・以用
 donate_link: https://donate.pay2go.com/npp/donate_fb
 donate_name: 時代力量
 id: kawloiyun
-time: 2015/1/6 07:24
+date: 2016/1/6 07:24
 party: newpowerparty
 tags: 不分區
 ogimg: http://twunbound.github.io/images/026-01.jpg
 wait: false
 layout: post
-previous:
-  title: 徐永明：運動中的觀察者
-  url: /view/polymh
-next:
-  title: 賈伯楷：在地與國家不二
-  url: /view/bokaijia
 ---
 
 <img style="margin-top:20px;" src="/images/026-01.jpg" alt="高潞・以用" class="news-photo-1">

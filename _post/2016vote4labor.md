@@ -7,17 +7,11 @@ fanstitle: 張麗芬
 donate_link: http://www.greenparty.org.tw/civicrm/contribute/transact?reset=1&id=4
 donate_name: 綠黨
 id: 2016vote4labor
-time: 2015/1/5 09:40
+date: 2016/1/5 09:40
 party: greensdparty
 tags: 不分區
 ogimg: http://twunbound.github.io/images/024-01.jpg
 wait: false
-previous:
-  title: 謝英俊：方法自如
-  url: /view/hsiehyingchun
-next:
-  title: 徐永明：運動中的觀察者
-  url: /view/polymh
 layout: post
 ---
 <img style="margin-top:20px;" src="/images/024-01.jpg" alt="張麗芬" class="news-photo-1">

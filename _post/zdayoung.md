@@ -6,18 +6,12 @@ fanspage: https://www.facebook.com/zdayoung/
 fanstitle: 楊智達
 donate_link: http://www.greenparty.org.tw/civicrm/contribute/transact?reset=1&id=27
 id: zdayoung
-time: 2015/12/30 19:24
+date: 2015/12/30 19:24
 party: greensdparty
 tags: 台南市, 第四選區, 安平區, 南區, 東區
 ogimg: http://twunbound.github.io/images/017-01.jpg
 wait: false
 layout: post
-previous:
-  title: 黃國昌：策略與衝鋒
-  url: /view/kcfor2016
-next:
-  title: 范雲：理論與實踐
-  url: /view/daan4fanyun
 ---
 <img style="margin-top:20px;" src="/images/017-01.jpg" alt="楊智達" class="news-photo-1">
 

@@ -7,17 +7,11 @@ fanstitle: 柯劭臻 時代力量不分區立委
 donate_link: https://donate.pay2go.com/npp/donate
 donate_name: 時代力量
 id: LawyerCo
-time: 2015/12/24 20:00
+date: 2015/12/24 20:00
 party: newpowerparty
 tags: 不分區
 ogimg: http://twunbound.github.io/images/007-01.jpg
 wait: false
-previous:
-  title: 柯一正：認真的遊戲者
-  url: /view/imagelephant
-next:
-  title: 呂欣潔：柔和的勇猛
-  url: /view/JenniferLuTw
 layout: post
 ---
 

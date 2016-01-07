@@ -7,17 +7,11 @@ fanstitle: 柯一正
 donate_link: https://donate.pay2go.com/npp/donate
 donate_name: 時代力量
 id: imagelephant
-time: 2015/12/24 13:00
+date: 2015/12/24 13:00
 party: newpowerparty
 tags: 不分區
 ogimg: http://twunbound.github.io/images/006-01.jpg
 wait: false
-previous:
-  title: 林昶佐：奔放中的冷靜
-  url: /view/ivotefreddy
-next:
-  title: 柯劭臻：風暴中挪動一吋吋腳步
-  url: /view/LawyerCo
 layout: post
 ---
 

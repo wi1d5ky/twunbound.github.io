@@ -6,18 +6,12 @@ fanspage: https://www.facebook.com/shaowen333/
 fanstitle: 吳紹文
 donate_link: https://payment.allpay.com.tw/Donate/CreateDonateOrder?id=1131144
 id: shaowen333
-time: 2015/12/29 8:14
+date: 2015/12/29 8:14
 party: greensdparty
 tags: 宜蘭縣
 ogimg: 2
 wait: false
 layout: post
-previous:
-  title: 陳尚志：學者之怒
-  url: /view/SCCSDP
-next:
-  title: 洪慈庸：不一樣的鄰家女孩
-  url: /view/newpowerhung
 ---
 <img style="margin-top:20px;" src="/images/011-01.jpg" alt="吳紹文" class="news-photo-1">
 

@@ -7,18 +7,12 @@ fanstitle: 鄭秀玲
 donate_link: https://donate.pay2go.com/npp/donate_fb
 donate_name: 時代力量
 id: renegotiation
-time: 2015/12/29 15:14
+date: 2015/12/29 15:14
 party: newpowerparty
 tags: 不分區
 ogimg: http://twunbound.github.io/images/013-01.jpg
 wait: false
 layout: post
-previous:
-  title: 洪慈庸：不一樣的鄰家女孩
-  url: /view/newpowerhung
-next:
-  title: 李晏榕：總結者
-  url: /view/sdpyenjonglee
 ---
 <img style="margin-top:20px;" src="/images/013-01.jpg" alt="鄭秀玲" class="news-photo-1">
 

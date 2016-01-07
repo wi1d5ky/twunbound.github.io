@@ -6,18 +6,12 @@ fanspage: https://www.facebook.com/LawyerHandyChiu/
 fanstitle: 邱顯智
 donate_link: https://donate.pay2go.com/Handy2016/5519
 id: LawyerHandyChiu
-time: 2015/12/31 09:24
+date: 2015/12/31 09:24
 party: newpowerparty
 tags: 新竹市
 ogimg: http://twunbound.github.io/images/019-01.jpg
 wait: false
 layout: post
-previous:
-  title: 范雲：理論與實踐
-  url: /view/daan4fanyun
-next:
-  title: 葉大華：為青少年而起
-  url: /view/veranayeh
 ---
 <img style="margin-top:20px;" src="/images/019-01.jpg" alt="邱顯智" class="news-photo-1">
 

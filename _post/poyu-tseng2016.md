@@ -6,14 +6,11 @@ fanspage: https://www.facebook.com/poyu.tseng2016
 fanstitle: 曾柏瑜
 donate_link: https://payment.allpay.com.tw/Donate/CreateDonateOrder?id=1128266
 id: poyu-tseng2016
-time: 2015/12/22
+date: 2015/12/22 22:00
 party: greensdparty
 tags: 新北市第11選區, 新店, 深坑, 石碇, 烏來, 坪林
 ogimg: http://twunbound.github.io/images/004-02.jpg
 wait: false
-previous:
-  title: 呂東杰：隱俠出江湖
-  url: /view/lu-d-jie
 layout: post
 ---
 
