@@ -1,18 +1,14 @@
 ---
-index: 13
 name: 鄭秀玲
 title: 鄭秀玲 ：俠女
 fanspage: https://www.facebook.com/renegotiation/
-fanstitle: 鄭秀玲
 donate_link: https://donate.pay2go.com/npp/donate_fb
 donate_name: 時代力量
-id: renegotiation
 date: 2015/12/29 15:14
 party: newpowerparty
 tags: 不分區
 ogimg: images/013-01.jpg
-wait: false
-layout: post
+permalink: /view/renegotiation
 ---
 <img style="margin-top:20px;" src="/images/013-01.jpg" alt="鄭秀玲" class="news-photo-1">
 

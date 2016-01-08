@@ -1,18 +1,14 @@
 ---
-index: 23
 name: 謝英俊
 title: 謝英俊：方法自如
 fanspage: https://www.facebook.com/hsiehyingchun/
-fanstitle: 謝英俊
 donate_link: https://sdparty.tw/donate
 donate_name: 社民黨
-id: hsiehyingchun
 date: 2016/1/4 23:40
 party: greensdparty
 tags: 台北市 不分區
 ogimg: images/023-01.jpg
-wait: false
-layout: post
+permalink: /view/hsiehyingchun/
 ---
 
 <img style="margin-top:20px;" src="/images/023-01.jpg" alt="謝英俊" class="news-photo-1">

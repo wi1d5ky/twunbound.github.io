@@ -1,17 +1,13 @@
 ---
-index: 27
 person: 賈伯楷
 title: 賈伯楷：在地與國家不二
 fanspage: https://www.facebook.com/bokaijia/
-fanstitle: 賈伯楷
 donate_link: http://www.greenparty.org.tw/civicrm/contribute/transact?reset=1&id=29
-id: bokaijia
 date: 2016/1/6 10:24
 party: greensdparty
 tags: 新北市 第四選區 新莊區
 ogimg: images/027-01.jpg
-wait: false
-layout: post
+permalink: /view/bokaijia/
 ---
 
 <img style="margin-top:20px;" src="/images/027-01.jpg" alt="賈伯楷" class="news-photo-1">

@@ -1,18 +1,14 @@
 ---
-index: 26
 name: 高潞・以用
 title: 高潞・以用：進擊的衝組
 fanspage: https://www.facebook.com/kawloiyun/
-fanstitle: 高潞・以用
 donate_link: https://donate.pay2go.com/npp/donate_fb
 donate_name: 時代力量
-id: kawloiyun
 date: 2016/1/6 07:24
 party: newpowerparty
 tags: 不分區
 ogimg: images/026-01.jpg
-wait: false
-layout: post
+permalink: /view/kawloiyun
 ---
 
 <img style="margin-top:20px;" src="/images/026-01.jpg" alt="高潞・以用" class="news-photo-1">

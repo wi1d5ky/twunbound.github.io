@@ -1,17 +1,13 @@
 ---
-index: 19
 name: 邱顯智
 title: 邱顯智：為弱勢者燃燒
 fanspage: https://www.facebook.com/LawyerHandyChiu/
-fanstitle: 邱顯智
 donate_link: https://donate.pay2go.com/Handy2016/5519
-id: LawyerHandyChiu
 date: 2015/12/31 09:24
 party: newpowerparty
 tags: 新竹市
 ogimg: images/019-01.jpg
-wait: false
-layout: post
+permalink: /view/LawyerHandyChiu
 ---
 <img style="margin-top:20px;" src="/images/019-01.jpg" alt="邱顯智" class="news-photo-1">
 

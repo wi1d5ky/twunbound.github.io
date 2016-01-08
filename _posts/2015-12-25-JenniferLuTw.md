@@ -1,17 +1,14 @@
 ---
-index: 8
 person: 呂欣潔
 title: 呂欣潔：柔和的勇猛
 fanspage: https://www.facebook.com/JenniferLuTw/
 fanstitle: 呂欣潔 Jennifer Lu
 donate_link: https://sdparty.tw/candidates/2/donate
-id: JenniferLuTw
 date: 2015/12/25 10:00
 party: greensdparty
 tags: 信義松山區
 ogimg: images/008-01.jpg
-wait: false
-layout: post
+permalink: /view/JenniferLuTw
 ---
 
 <img style="margin-top:20px;" class="news-photo-1" src="/images/008-01.jpg" alt="呂欣潔" />

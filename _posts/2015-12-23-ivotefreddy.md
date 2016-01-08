@@ -1,17 +1,14 @@
 ---
-index: 5
 person: 林昶佐
 title: 林昶佐：奔放中的冷靜
 fanspage: https://www.facebook.com/ivotefreddy/
 fanstitle: 林昶佐 中正萬華關鍵戰將
 donate_link: https://donate.pay2go.com/freddy/donate
-id: ivotefreddy
 date: 2015/12/23 16:00
 party: greensdparty
 tags: 台北市中正、萬華區
 ogimg: images/005-04.jpg
-wait: false
-layout: post
+permalink: /view/ivotefreddy
 ---
 
 <img class="news-photo-1" src="/images/005-03.jpg" alt="林昶佐" />

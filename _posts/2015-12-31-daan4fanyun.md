@@ -1,17 +1,13 @@
 ---
-index: 18
 person: 范雲
 title: 范雲：理論與實踐
 fanspage: https://www.facebook.com/daan4fanyun/
-fanstitle: 范雲
 donate_link: https://sdparty.tw/candidates/1/donate
-id: daan4fanyun
 date: 2015/12/31 00:43
 party: greensdparty
 tags: 台北市 大安區
 ogimg: images/018-01.jpg
-wait: false
-layout: post
+permalink: /view/daan4fanyun/
 ---
 <img style="margin-top:20px;" src="/images/018-01.jpg" alt="范雲" class="news-photo-1">
 

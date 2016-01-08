@@ -1,18 +1,14 @@
 ---
-index: 21
 name: 許秀雯
 title: 許秀雯：女同志寫給台灣的情書
 fanspage: https://www.facebook.com/MeVictoriaHSU/
-fanstitle: 許秀雯
 donate_link: http://www.greenparty.org.tw/civicrm/contribute/transact?reset=1&id=4
 donate_name: 綠黨
-id: MeVictoriaHSU
 date: 2016/1/4 15:21
 party: greensdparty
 tags: 不分區
 ogimg: images/021-01.jpg
-wait: false
-layout: post
+permalink: /view/MeVictoriaHSU
 ---
 <img style="margin-top:20px;" src="/images/021-01.jpg" alt="許秀雯" class="news-photo-1">
 

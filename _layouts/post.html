@@ -16,10 +16,9 @@
     <!-- social -->
       <div id="content">
         <div class="header" >
-
           <a name="users" id="#candidate"></a>
           <div class="pull-right">
-            <div class="fb-like" data-href="http://twunbound.github.io/view/{{ page.id }}" data-layout="button_count" data-action="like"
+            <div class="fb-like" data-href="http://twunbound.github.io/view/{{ page.url }}" data-layout="button_count" data-action="like"
             data-show-faces="true" data-share="true"></div>
           </div>
 
@@ -69,7 +68,13 @@
 							data-show-facepile="true" class="fb-page">
 							<div class="fb-xfbml-parse-ignore">
                 <blockquote cite="{{ page.fanspage }}">
-									<a href="{{ page.fanspage }}">{{ page.person }}</a>
+									<a href="{{ page.fanspage }}">
+										{% if page.fanstitle %}
+											{{ page.fanstitle }}
+										{% else %}
+											{{ page.person }}
+										{%endif%}
+									</a>
 								</blockquote>
 							</div>
 				</div>
@@ -99,7 +104,7 @@
 
     <div style='padding:24px'>
     <h4>網友迴響</h4>
-    <div class="fb-comments"  data-width="100%" data-href="http://twunbound.github.io/view/{{ page.id }}" data-numposts="6"></div>
+    <div class="fb-comments"  data-width="100%" data-href="http://twunbound.github.io/view/{{ page.url }}" data-numposts="6"></div>
     </div>
 
     </div>

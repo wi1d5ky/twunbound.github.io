@@ -1,17 +1,13 @@
 ---
-index: 9
 person: 王寶萱
 title: 王寶萱：聽我五分鐘
 fanspage: https://www.facebook.com/standforpeople/
-fanstitle: 王寶萱
 donate_link: https://payment.allpay.com.tw/Donate/CreateDonateOrder?id=1117209
-id: standforpeople
 date: 2015/12/28 10:14
 party: greensdparty
 tags: 桃園市第1選區
 ogimg: images/009-03.jpg
-wait: false
-layout: post
+permalink: /view/standforpeople
 ---
 <img style="margin-top:20px;" src="/images/009-03.jpg" alt="王寶萱" class="news-photo-1">
 

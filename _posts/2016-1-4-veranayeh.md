@@ -1,18 +1,14 @@
 ---
-index: 20
 name: 葉大華
 title: 葉大華：為青少年而起
 fanspage: https://www.facebook.com/veranayeh/
-fanstitle: 葉大華
 donate_link: https://sdparty.tw/donate
 donate_name: 社民黨
-id: LawyerHandyChiu
 date: 2016/1/4 11:11
 party: greensdparty
 tags: 不分區
 ogimg: images/020-01.jpg
-wait: false
-layout: post
+permalink: /view/LawyerHandyChiu/
 ---
 <img style="margin-top:20px;" src="/images/020-01.jpg" alt="葉大華" class="news-photo-1">
 

@@ -1,17 +1,13 @@
 ---
-index: 12
 name: 洪慈庸
 title: 洪慈庸：不一樣的鄰家女孩
 fanspage: https://www.facebook.com/newpowerhung/
-fanstitle: 洪慈庸
 donate_link: https://donate.pay2go.com/newpowerhung/donate
-id: newpowerhung
 date: 2015/12/29 13:14
 party: newpowerparty
 tags: 臺中市第三選舉區 后里區 神岡區 大雅區 潭子區
 ogimg: images/012-02.jpg
-wait: false
-layout: post
+permalink: /view/newpowerhung
 ---
 <img style="margin-top:20px;" src="/images/012-01.jpg" alt="洪慈庸" class="news-photo-1">
 

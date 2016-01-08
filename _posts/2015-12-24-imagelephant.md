@@ -1,18 +1,14 @@
 ---
-index: 6
 person: 柯一正
 title: 柯一正：認真的遊戲者
 fanspage: https://www.facebook.com/imagelephant/posts/10152803490757465
-fanstitle: 柯一正
 donate_link: https://donate.pay2go.com/npp/donate
 donate_name: 時代力量
-id: imagelephant
 date: 2015/12/24 13:00
 party: newpowerparty
 tags: 不分區
 ogimg: images/006-01.jpg
-wait: false
-layout: post
+permalink: /view/imagelephant
 ---
 
 <img class="news-photo-1" src="/images/006-01.jpg" alt="柯一正" />

@@ -14,19 +14,19 @@ layout: default
   </div>
   <hr>
 
-  {% for post in site.post %}
+  {% for post in site.posts reversed %}
     <div class="row news-item {{ post.party }}">
       <div class="col-xs-12 col-sm-4 col-md-3">
-        <a href="/view/{{ post.id }}" class="thumbnail">
+        <a href="{{ post.url }}" class="thumbnail">
           <img src="/{{ post.ogimg }}" alt="{{ post.person }}">
         </a>
       </div>
       <div class="col-xs-12 col-sm-8 col-md-9">
-        <a href="/view/{{ post.id }}">
+        <a href="{{ post.url }}">
           <h3 class="news-item-title">{{ post.title }}</h3>
         </a>
         <abbr class="news-item-date">{{ post.date | date: "%Y/%m/%d %H:%M" }}</abbr>
-        <a href="/view/{{ post.id }}">
+        <a href="{{ post.url }}">
           <p class="news-item-abstract">
             {{ post.content | strip_html | truncatewords: 3 }}
           </p>
